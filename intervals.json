@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T23:36:10.953940",
+  "generated_at": "2026-04-25T01:04:32.331268",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -274,72 +274,6 @@
           "max_hr": 148,
           "avg_cadence": 86.683334,
           "zone": 2
-        }
-      ]
-    },
-    {
-      "activity_id": "i140306665",
-      "date": "2026-04-10",
-      "type": "Run",
-      "name": "Kortrijk Hardlopen",
-      "interval_summary": [
-        "5x 5m37s 132bpm",
-        "1x 36s 141bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "337s@132bpm86rpm",
-          "duration_secs": 341,
-          "avg_hr": 123,
-          "max_hr": 132,
-          "avg_cadence": 85.68328,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "337s@132bpm86rpm",
-          "duration_secs": 330,
-          "avg_hr": 131,
-          "max_hr": 137,
-          "avg_cadence": 86.20303,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "337s@132bpm86rpm",
-          "duration_secs": 335,
-          "avg_hr": 134,
-          "max_hr": 138,
-          "avg_cadence": 85.608955,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "337s@132bpm86rpm",
-          "duration_secs": 341,
-          "avg_hr": 135,
-          "max_hr": 141,
-          "avg_cadence": 85.85337,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "337s@132bpm86rpm",
-          "duration_secs": 337,
-          "avg_hr": 139,
-          "max_hr": 143,
-          "avg_cadence": 85.183975,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "36s@141bpm85rpm",
-          "duration_secs": 36,
-          "avg_hr": 141,
-          "max_hr": 142,
-          "avg_cadence": 85.02778,
-          "zone": 1
         }
       ]
     },
