@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-20T12:10:35.827046",
+    "last_updated": "2026-05-20T15:54:27.527234",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.103"
@@ -244,7 +244,7 @@
       }
     },
     "current_metrics": {
-      "weight_kg": 84.599,
+      "weight_kg": 84.5,
       "resting_hr": 53,
       "hrv": 40.0,
       "sleep_quality": 3,
@@ -267,7 +267,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 1474,
+      "steps": 5338,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -480,7 +480,7 @@
           "start": "2026-04-09",
           "end": "2026-05-20"
         },
-        "weight_kg": 84.6,
+        "weight_kg": 84.5,
         "weight_source": "wellness_recent",
         "cycling": {
           "anchors": {
@@ -491,7 +491,7 @@
               "pct_lthr": 87.1,
               "source": "observed_outdoor",
               "coggan_watts": 310,
-              "coggan_wpkg": 3.66,
+              "coggan_wpkg": 3.67,
               "cp_model_watts": 356,
               "cp_model_wpkg": 4.21,
               "model_divergence_pct": -28.9
@@ -529,7 +529,7 @@
               "coggan_watts": 263,
               "coggan_wpkg": 3.11,
               "cp_model_watts": 303,
-              "cp_model_wpkg": 3.58,
+              "cp_model_wpkg": 3.59,
               "model_divergence_pct": -40.3
             },
             "3600s": {
@@ -641,7 +641,7 @@
     "p_max": 1099,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-20T12:10:35.826061",
+    "calculation_timestamp": "2026-05-20T15:54:27.526176",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -2240,7 +2240,7 @@
     },
     {
       "date": "2026-05-19",
-      "weight_kg": null,
+      "weight_kg": 84.5,
       "resting_hr": 49,
       "hrv_rmssd": 60.0,
       "hrv_sdnn": null,
@@ -2279,7 +2279,7 @@
     },
     {
       "date": "2026-05-20",
-      "weight_kg": null,
+      "weight_kg": 84.5,
       "resting_hr": 53,
       "hrv_rmssd": 40.0,
       "hrv_sdnn": null,
@@ -2306,7 +2306,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 1474,
+      "steps": 5338,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
