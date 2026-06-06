@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T09:33:37.792470",
+  "generated_at": "2026-06-06T11:09:27.280082",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -1507,6 +1507,63 @@
           "zone": 2,
           "training_load": 4.7136035,
           "decoupling": 3.8271198
+        }
+      ]
+    },
+    {
+      "activity_id": "i154769044",
+      "date": "2026-06-06",
+      "type": "Run",
+      "name": "Arnhem Hardlopen",
+      "interval_summary": [
+        "4x 5m27s 138bpm",
+        "1x 4m30s 145bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "327s@138bpm81rpm",
+          "duration_secs": 334,
+          "avg_hr": 131,
+          "max_hr": 147,
+          "avg_cadence": 80.2006,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "327s@138bpm81rpm",
+          "duration_secs": 312,
+          "avg_hr": 138,
+          "max_hr": 144,
+          "avg_cadence": 81.89423,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "327s@138bpm81rpm",
+          "duration_secs": 342,
+          "avg_hr": 140,
+          "max_hr": 149,
+          "avg_cadence": 79.99379,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "327s@138bpm81rpm",
+          "duration_secs": 320,
+          "avg_hr": 144,
+          "max_hr": 149,
+          "avg_cadence": 80.85,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "270s@145bpm81rpm",
+          "duration_secs": 270,
+          "avg_hr": 145,
+          "max_hr": 149,
+          "avg_cadence": 80.62963,
+          "zone": 2
         }
       ]
     }
