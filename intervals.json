@@ -1,31 +1,10 @@
 {
-  "generated_at": "2026-06-10T23:19:05.013995",
+  "generated_at": "2026-06-11T01:44:46.425558",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i151947972",
-      "date": "2026-05-27",
-      "type": "Ride",
-      "name": "La Orotava Wegwielrennen",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 14913,
-          "avg_power": 157,
-          "max_power": 610,
-          "avg_hr": 136,
-          "max_hr": 160,
-          "avg_cadence": 68.93493,
-          "zone": 1,
-          "training_load": 129.1721,
-          "decoupling": 12.2576685
-        }
-      ]
-    },
     {
       "activity_id": "i152282402",
       "date": "2026-05-28",
