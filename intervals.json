@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T14:39:43.895124",
+  "generated_at": "2026-06-14T16:09:45.984483",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -2229,6 +2229,27 @@
           "max_hr": 137,
           "avg_cadence": 84.166664,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i157232293",
+      "date": "2026-06-14",
+      "type": "Ride",
+      "name": "Arnhem Wegwielrennen",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 8127,
+          "avg_power": 171,
+          "max_power": 730,
+          "avg_hr": 121,
+          "max_hr": 142,
+          "avg_cadence": 83.59585,
+          "zone": 2,
+          "training_load": 87.78614,
+          "decoupling": 6.1618166
         }
       ]
     }
