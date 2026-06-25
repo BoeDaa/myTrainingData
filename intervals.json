@@ -1,86 +1,10 @@
 {
-  "generated_at": "2026-06-24T23:47:42.044569",
+  "generated_at": "2026-06-25T02:27:24.129748",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i156143069",
-      "date": "2026-06-10",
-      "type": "Run",
-      "name": "Arnhem Hardlopen",
-      "interval_summary": [
-        "1x 5m52s 125bpm",
-        "5x 5m24s 145bpm",
-        "1x 4m 158bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "352s@125bpm81rpm",
-          "duration_secs": 352,
-          "avg_hr": 125,
-          "max_hr": 137,
-          "avg_cadence": 80.69602,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "324s@145bpm83rpm",
-          "duration_secs": 337,
-          "avg_hr": 139,
-          "max_hr": 144,
-          "avg_cadence": 81.154305,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "324s@145bpm83rpm",
-          "duration_secs": 286,
-          "avg_hr": 151,
-          "max_hr": 160,
-          "avg_cadence": 85.33217,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "324s@145bpm83rpm",
-          "duration_secs": 361,
-          "avg_hr": 140,
-          "max_hr": 145,
-          "avg_cadence": 80.27424,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "324s@145bpm83rpm",
-          "duration_secs": 319,
-          "avg_hr": 144,
-          "max_hr": 151,
-          "avg_cadence": 85.0,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "324s@145bpm83rpm",
-          "duration_secs": 317,
-          "avg_hr": 151,
-          "max_hr": 156,
-          "avg_cadence": 83.18612,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "240s@158bpm84rpm",
-          "duration_secs": 240,
-          "avg_hr": 158,
-          "max_hr": 173,
-          "avg_cadence": 83.504166,
-          "zone": 3
-        }
-      ]
-    },
     {
       "activity_id": "i156272980",
       "date": "2026-06-11",
