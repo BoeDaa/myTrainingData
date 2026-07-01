@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T16:01:16.697972",
+  "generated_at": "2026-07-01T18:14:40.872071",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -673,6 +673,83 @@
           "avg_hr": 125,
           "max_hr": 128,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i161827560",
+      "date": "2026-07-01",
+      "type": "Run",
+      "name": "Castelldefels Hardlopen",
+      "interval_summary": [
+        "1x 5m6s 123bpm",
+        "3x 5m29s 149bpm",
+        "2x 7m29s 151bpm",
+        "1x 82s 169bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "306s@123bpm84rpm",
+          "duration_secs": 306,
+          "avg_hr": 123,
+          "max_hr": 141,
+          "avg_cadence": 83.89216,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "329s@149bpm81rpm",
+          "duration_secs": 312,
+          "avg_hr": 141,
+          "max_hr": 151,
+          "avg_cadence": 81.003204,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "329s@149bpm81rpm",
+          "duration_secs": 326,
+          "avg_hr": 150,
+          "max_hr": 157,
+          "avg_cadence": 79.94198,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "449s@151bpm80rpm",
+          "duration_secs": 452,
+          "avg_hr": 148,
+          "max_hr": 158,
+          "avg_cadence": 80.36039,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "329s@149bpm81rpm",
+          "duration_secs": 349,
+          "avg_hr": 155,
+          "max_hr": 164,
+          "avg_cadence": 80.837135,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "449s@151bpm80rpm",
+          "duration_secs": 445,
+          "avg_hr": 153,
+          "max_hr": 164,
+          "avg_cadence": 78.94379,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "82s@169bpm81rpm",
+          "duration_secs": 82,
+          "avg_hr": 169,
+          "max_hr": 172,
+          "avg_cadence": 81.39024,
+          "zone": 4
         }
       ]
     }
