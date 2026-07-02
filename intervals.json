@@ -1,102 +1,10 @@
 {
-  "generated_at": "2026-07-01T23:02:54.474670",
+  "generated_at": "2026-07-02T00:19:36.753215",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i157964363",
-      "date": "2026-06-17",
-      "type": "Run",
-      "name": "Bormio Hardlopen",
-      "interval_summary": [
-        "7x 5m23s 142bpm",
-        "1x 96s 154bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "323s@142bpm85rpm",
-          "duration_secs": 337,
-          "avg_hr": 125,
-          "max_hr": 136,
-          "avg_cadence": 84.172104,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 132,
-          "max_hr": 132,
-          "avg_cadence": 84.0,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "323s@142bpm85rpm",
-          "duration_secs": 304,
-          "avg_hr": 136,
-          "max_hr": 141,
-          "avg_cadence": 85.00329,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "323s@142bpm85rpm",
-          "duration_secs": 307,
-          "avg_hr": 139,
-          "max_hr": 144,
-          "avg_cadence": 85.944626,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "323s@142bpm85rpm",
-          "duration_secs": 316,
-          "avg_hr": 143,
-          "max_hr": 147,
-          "avg_cadence": 85.45223,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "323s@142bpm85rpm",
-          "duration_secs": 319,
-          "avg_hr": 146,
-          "max_hr": 150,
-          "avg_cadence": 86.24765,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "323s@142bpm85rpm",
-          "duration_secs": 337,
-          "avg_hr": 151,
-          "max_hr": 154,
-          "avg_cadence": 85.48962,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "323s@142bpm85rpm",
-          "duration_secs": 340,
-          "avg_hr": 153,
-          "max_hr": 157,
-          "avg_cadence": 84.82059,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "96s@154bpm86rpm",
-          "duration_secs": 96,
-          "avg_hr": 154,
-          "max_hr": 157,
-          "avg_cadence": 85.78125,
-          "zone": 3
-        }
-      ]
-    },
     {
       "activity_id": "i158523605",
       "date": "2026-06-19",
