@@ -1,68 +1,10 @@
 {
-  "generated_at": "2026-08-07T23:55:03.585699",
+  "generated_at": "2026-08-08T00:54:39.158571",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i168665464",
-      "date": "2026-07-24",
-      "type": "Run",
-      "name": "D\u00e9voluy Hardlopen",
-      "interval_summary": [
-        "1x 5m57s 114bpm",
-        "3x 5m54s 138bpm",
-        "1x 3m20s 141bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "357s@114bpm81rpm",
-          "duration_secs": 357,
-          "avg_hr": 114,
-          "max_hr": 134,
-          "avg_cadence": 80.82635,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "354s@138bpm84rpm",
-          "duration_secs": 339,
-          "avg_hr": 137,
-          "max_hr": 147,
-          "avg_cadence": 84.22124,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "354s@138bpm84rpm",
-          "duration_secs": 380,
-          "avg_hr": 133,
-          "max_hr": 147,
-          "avg_cadence": 81.981705,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "354s@138bpm84rpm",
-          "duration_secs": 344,
-          "avg_hr": 145,
-          "max_hr": 150,
-          "avg_cadence": 84.351746,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "200s@141bpm82rpm",
-          "duration_secs": 200,
-          "avg_hr": 141,
-          "max_hr": 156,
-          "avg_cadence": 82.18667,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i170197544",
       "date": "2026-07-28",
