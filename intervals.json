@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T04:36:58.633211",
+  "generated_at": "2026-08-11T05:40:00.361258",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -1621,6 +1621,73 @@
           "zone": 2,
           "training_load": 3.6723053,
           "decoupling": 13.039818
+        }
+      ]
+    },
+    {
+      "activity_id": "i174589167",
+      "date": "2026-08-11",
+      "type": "Run",
+      "name": "Arnhem - Base",
+      "interval_summary": [
+        "1x 5m43s 122bpm",
+        "4x 5m43s 141bpm",
+        "1x 24s 145bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "343s@122bpm83rpm",
+          "duration_secs": 343,
+          "avg_hr": 122,
+          "max_hr": 132,
+          "avg_cadence": 82.92128,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "343s@141bpm84rpm",
+          "duration_secs": 339,
+          "avg_hr": 136,
+          "max_hr": 140,
+          "avg_cadence": 83.61062,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "343s@141bpm84rpm",
+          "duration_secs": 345,
+          "avg_hr": 142,
+          "max_hr": 155,
+          "avg_cadence": 83.74493,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "343s@141bpm84rpm",
+          "duration_secs": 341,
+          "avg_hr": 141,
+          "max_hr": 146,
+          "avg_cadence": 84.61877,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "343s@141bpm84rpm",
+          "duration_secs": 348,
+          "avg_hr": 143,
+          "max_hr": 146,
+          "avg_cadence": 84.60632,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "24s@145bpm85rpm",
+          "duration_secs": 24,
+          "avg_hr": 145,
+          "max_hr": 147,
+          "avg_cadence": 84.5,
+          "zone": 2
         }
       ]
     }
