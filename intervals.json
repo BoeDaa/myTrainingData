@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T13:11:45.310780",
+  "generated_at": "2026-08-28T23:01:32.911741",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -833,6 +833,75 @@
           "max_hr": 171,
           "avg_cadence": 79.64192,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i180762322",
+      "date": "2026-08-28",
+      "type": "Ride",
+      "name": "Cangas de On\u00eds Wegwielrennen",
+      "interval_summary": [
+        "1x 35m17s 120bpm",
+        "1x 1h50m 133bpm",
+        "1x 1h29m 110bpm",
+        "1x 18m27s 94bpm",
+        "1x 26m41s 118bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2117s@120bpm",
+          "duration_secs": 2117,
+          "avg_hr": 120,
+          "max_hr": 145,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 139,
+          "max_hr": 139,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "6615s@133bpm",
+          "duration_secs": 6615,
+          "avg_hr": 133,
+          "max_hr": 152,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "5381s@110bpm",
+          "duration_secs": 5381,
+          "avg_hr": 110,
+          "max_hr": 141,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2,
+          "avg_hr": 80,
+          "max_hr": 80,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1107s@94bpm",
+          "duration_secs": 1107,
+          "avg_hr": 94,
+          "max_hr": 129,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1601s@118bpm",
+          "duration_secs": 1601,
+          "avg_hr": 118,
+          "max_hr": 142,
+          "zone": 1
         }
       ]
     }
