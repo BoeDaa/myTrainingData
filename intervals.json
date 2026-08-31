@@ -1,97 +1,10 @@
 {
-  "generated_at": "2026-08-30T22:04:13.867706",
+  "generated_at": "2026-08-31T00:34:19.698255",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i176450766",
-      "date": "2026-08-16",
-      "type": "Ride",
-      "name": "Arnhem Wegwielrennen",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 16396,
-          "avg_power": 182,
-          "max_power": 655,
-          "avg_hr": 128,
-          "max_hr": 155,
-          "avg_cadence": 83.14815,
-          "zone": 2,
-          "training_load": 168.48949,
-          "decoupling": 2.752661
-        }
-      ]
-    },
-    {
-      "activity_id": "i176462831",
-      "date": "2026-08-16",
-      "type": "Run",
-      "name": "Arnhem Hardlopen",
-      "interval_summary": [
-        "5x 4m56s 156bpm",
-        "1x 2m51s 162bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "296s@156bpm85rpm",
-          "duration_secs": 324,
-          "avg_hr": 143,
-          "max_hr": 153,
-          "avg_cadence": 83.78704,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "296s@156bpm85rpm",
-          "duration_secs": 302,
-          "avg_hr": 154,
-          "max_hr": 158,
-          "avg_cadence": 85.05629,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "296s@156bpm85rpm",
-          "duration_secs": 290,
-          "avg_hr": 157,
-          "max_hr": 167,
-          "avg_cadence": 85.91035,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "296s@156bpm85rpm",
-          "duration_secs": 278,
-          "avg_hr": 163,
-          "max_hr": 165,
-          "avg_cadence": 86.95683,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "296s@156bpm85rpm",
-          "duration_secs": 288,
-          "avg_hr": 164,
-          "max_hr": 167,
-          "avg_cadence": 85.732635,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "171s@162bpm86rpm",
-          "duration_secs": 171,
-          "avg_hr": 162,
-          "max_hr": 164,
-          "avg_cadence": 85.690056,
-          "zone": 4
-        }
-      ]
-    },
     {
       "activity_id": "i177641357",
       "date": "2026-08-19",
