@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T13:06:40.553640",
+  "generated_at": "2026-09-06T16:13:24.523083",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -216,6 +216,54 @@
           "avg_hr": 118,
           "max_hr": 142,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i183935813",
+      "date": "2026-09-06",
+      "type": "Ride",
+      "name": "Arnhem Wegwielrennen",
+      "interval_summary": [
+        "1x 20s 527w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3561,
+          "avg_power": 159,
+          "max_power": 903,
+          "avg_hr": 116,
+          "max_hr": 138,
+          "avg_cadence": 81.80597,
+          "zone": 1,
+          "training_load": 33.010284,
+          "decoupling": 1.0810734
+        },
+        {
+          "type": "WORK",
+          "label": "20s@527w84rpm",
+          "duration_secs": 20,
+          "avg_power": 527,
+          "max_power": 681,
+          "avg_hr": 139,
+          "max_hr": 140,
+          "avg_cadence": 83.75,
+          "zone": 7,
+          "training_load": 1.6748569,
+          "decoupling": -8.68847
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 7203,
+          "avg_power": 142,
+          "max_power": 606,
+          "avg_hr": 118,
+          "max_hr": 149,
+          "avg_cadence": 71.475876,
+          "zone": 1,
+          "training_load": 54.08148,
+          "decoupling": 4.3831797
         }
       ]
     }
