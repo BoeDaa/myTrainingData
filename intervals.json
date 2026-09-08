@@ -1,78 +1,10 @@
 {
-  "generated_at": "2026-09-07T22:08:18.048073",
+  "generated_at": "2026-09-08T00:21:25.999774",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i179105459",
-      "date": "2026-08-24",
-      "type": "Run",
-      "name": "Ch\u00e2teauroux Hardlopen",
-      "interval_summary": [
-        "2x 6m40s 122bpm",
-        "2x 6m7s 137bpm",
-        "1x 11m41s 140bpm",
-        "1x 2m36s 139bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "400s@122bpm80rpm",
-          "duration_secs": 384,
-          "avg_hr": 120,
-          "max_hr": 134,
-          "avg_cadence": 81.83594,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "400s@122bpm80rpm",
-          "duration_secs": 416,
-          "avg_hr": 124,
-          "max_hr": 136,
-          "avg_cadence": 79.128136,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "367s@137bpm80rpm",
-          "duration_secs": 368,
-          "avg_hr": 134,
-          "max_hr": 139,
-          "avg_cadence": 79.9375,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "367s@137bpm80rpm",
-          "duration_secs": 365,
-          "avg_hr": 139,
-          "max_hr": 143,
-          "avg_cadence": 79.70685,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "701s@140bpm79rpm",
-          "duration_secs": 701,
-          "avg_hr": 140,
-          "max_hr": 153,
-          "avg_cadence": 79.43432,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "156s@139bpm83rpm",
-          "duration_secs": 156,
-          "avg_hr": 139,
-          "max_hr": 146,
-          "avg_cadence": 82.76282,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i180268579",
       "date": "2026-08-27",
