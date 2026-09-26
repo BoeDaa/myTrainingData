@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:27:14.574946",
+  "generated_at": "2026-09-26T17:52:43.344637",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -801,6 +801,53 @@
           "max_hr": 175,
           "avg_cadence": 71.931595,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i190603820",
+      "date": "2026-09-26",
+      "type": "Ride",
+      "name": "Valkenburg aan de Geul Wegwielrennen",
+      "interval_summary": [
+        "1x 3m14s 228w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 8854,
+          "avg_power": 148,
+          "max_power": 679,
+          "avg_hr": 112,
+          "max_hr": 136,
+          "avg_cadence": 76.87003,
+          "zone": 1,
+          "training_load": 62.692547,
+          "decoupling": -1.8312346
+        },
+        {
+          "type": "WORK",
+          "label": "194s@228w80rpm",
+          "duration_secs": 194,
+          "avg_power": 228,
+          "max_power": 315,
+          "avg_hr": 130,
+          "max_hr": 139,
+          "avg_cadence": 80.26804,
+          "zone": 3,
+          "training_load": 3.2281256,
+          "decoupling": -0.6958961
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 14712,
+          "avg_power": 138,
+          "max_power": 639,
+          "avg_hr": 117,
+          "max_hr": 148,
+          "avg_cadence": 59.104553,
+          "zone": 1,
+          "training_load": 103.14445
         }
       ]
     }
