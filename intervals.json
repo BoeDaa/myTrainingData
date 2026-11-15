@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:42:37.596642",
+  "generated_at": "2026-11-15T19:56:53.565905",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -918,6 +918,162 @@
           "max_hr": 161,
           "avg_cadence": 80.81771,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i210386535",
+      "date": "2026-11-15",
+      "type": "Run",
+      "name": "Nijmegen - Zevenheuvelen plan",
+      "interval_summary": [
+        "15x 4m40s 164bpm",
+        "1x 18s 173bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 290,
+          "avg_hr": 146,
+          "max_hr": 161,
+          "avg_cadence": 86.12414,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 287,
+          "avg_hr": 159,
+          "max_hr": 163,
+          "avg_cadence": 85.17422,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 290,
+          "avg_hr": 163,
+          "max_hr": 168,
+          "avg_cadence": 85.389656,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 299,
+          "avg_hr": 163,
+          "max_hr": 168,
+          "avg_cadence": 84.57525,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 297,
+          "avg_hr": 165,
+          "max_hr": 173,
+          "avg_cadence": 84.41751,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 283,
+          "avg_hr": 163,
+          "max_hr": 167,
+          "avg_cadence": 84.32862,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 277,
+          "avg_hr": 165,
+          "max_hr": 169,
+          "avg_cadence": 84.6065,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 290,
+          "avg_hr": 167,
+          "max_hr": 173,
+          "avg_cadence": 84.83103,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 281,
+          "avg_hr": 166,
+          "max_hr": 172,
+          "avg_cadence": 84.423485,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 264,
+          "avg_hr": 165,
+          "max_hr": 169,
+          "avg_cadence": 84.40909,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 293,
+          "avg_hr": 168,
+          "max_hr": 171,
+          "avg_cadence": 84.61092,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 272,
+          "avg_hr": 166,
+          "max_hr": 170,
+          "avg_cadence": 84.786766,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 270,
+          "avg_hr": 167,
+          "max_hr": 171,
+          "avg_cadence": 85.60741,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 256,
+          "avg_hr": 167,
+          "max_hr": 170,
+          "avg_cadence": 86.12891,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "280s@164bpm85rpm",
+          "duration_secs": 256,
+          "avg_hr": 170,
+          "max_hr": 178,
+          "avg_cadence": 86.47656,
+          "zone": 5
+        },
+        {
+          "type": "WORK",
+          "label": "18s@173bpm88rpm",
+          "duration_secs": 18,
+          "avg_hr": 173,
+          "max_hr": 174,
+          "avg_cadence": 88.22222,
+          "zone": 5
         }
       ]
     }
